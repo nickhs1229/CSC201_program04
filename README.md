@@ -1,2 +1,2 @@
 # CSC201_program04
-Nicholas Hitchens-Spellman
+CSC 201 Lab Assignment 4
