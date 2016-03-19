@@ -1,0 +1,10 @@
+The purpose of this pogram is to create a calculator that can process complex expressions and calculate the answers to said problems.
+The most important variables used in this program were the "try" and "except" variables.
+I learned about these variables earlier in class and determined that they would be useful for completing this assignment.
+The "try" variable allows a given process to be tested by the program for any error, and the "except" varaible accounts for that error.
+By using these in my program, I could account for any potential errors in my program and print an appropriate message.
+That way I could validate all of my expressions to make sure their values were appropriate.
+When combined with the general design of the program, this allows for it to calculate simple and complex mathematical expressions.
+These expressions are input by the user, and if they are input incorrectly an appropriate error message is produced.
+Regarding problems, I have encountered difficulties utilizing the "last" command within the program.
+Specifically, I have been unable to identify any way to print an entire history of past results due to said history not being saved within Python.
